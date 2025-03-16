@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=Samsularifin01&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 
-*Samsularifin* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*Iannv* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
